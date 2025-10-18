@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kumar\\source\\repos\\SDLStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A05BDF3-5A66-4CAB-9C9A-4EE552B69807}|SDLStart\\SDLStart.vcxproj|C:\\Users\\kumar\\source\\repos\\SDLStart\\SDLStart\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A05BDF3-5A66-4CAB-9C9A-4EE552B69807}|SDLStart\\SDLStart.vcxproj|solutionrelative:SDLStart\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A05BDF3-5A66-4CAB-9C9A-4EE552B69807}|SDLStart\\SDLStart.vcxproj|C:\\Users\\kumar\\source\\repos\\SDLStart\\SDLStart\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A05BDF3-5A66-4CAB-9C9A-4EE552B69807}|SDLStart\\SDLStart.vcxproj|solutionrelative:SDLStart\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kumar\\source\\repos\\SDLStart\\SDLStart\\.gitignore",
+              "RelativeDocumentMoniker": "SDLStart\\.gitignore",
+              "ToolTip": "C:\\Users\\kumar\\source\\repos\\SDLStart\\SDLStart\\.gitignore",
+              "RelativeToolTip": "SDLStart\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-18T01:00:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kumar\\source\\repos\\SDLStart\\SDLStart\\main.cpp",
+              "RelativeDocumentMoniker": "SDLStart\\main.cpp",
+              "ToolTip": "C:\\Users\\kumar\\source\\repos\\SDLStart\\SDLStart\\main.cpp",
+              "RelativeToolTip": "SDLStart\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T01:00:42.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

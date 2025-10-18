@@ -19,5 +19,5 @@ obj/
 *.pdb
 *.idb
 *.exe
-*.dll
+#*.dll since i need SDL3.dll
 *.cache
