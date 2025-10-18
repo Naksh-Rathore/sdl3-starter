@@ -13,5 +13,5 @@ own.
 
 ## Contributing
 
-If something is not working, can be improved, or something else to help the rep, feel free to drop an issue or PR. This project is licensed under the MIT License. More info in 
+If something is not working, can be improved, or something else to help the repo, feel free to drop an issue or PR. This project is licensed under the MIT License. More info in 
 [LICENSE](https://github.com/Naksh-Rathore/sdl3-starter/blob/main/LICENSE). Thanks!
