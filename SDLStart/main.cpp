@@ -21,11 +21,19 @@ int main(int argc, char* argv[]) {
 
 	while (isRunning) {
 		while (SDL_PollEvent(&event)) {
+<<<<<<< HEAD
 			if (event.type == SDL_EVENT_QUIT)
+=======
+			if (event.type == SDL_EVENT_QUIT) 
+>>>>>>> e01a74ce3b70adbe3cb69b2d33bf8126a64869c9
 				isRunning = false;
 		}
 	}
 
 	SDL_Quit();
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e01a74ce3b70adbe3cb69b2d33bf8126a64869c9
