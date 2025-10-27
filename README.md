@@ -1,8 +1,8 @@
-# SDL3 Starter
+# SDL3 & OpenGL Starter
 
 ## Overview
 
-A simple repo designed to help you get started on SDL3. It uses Visual Studio 2022, Windows 11, x64-based processor, and SDL 3.2.24. The file paths are according to my computer, so I recommend changing them to your
+A simple repo designed to help you get started on SDL3 and OpenGL. It uses Visual Studio 2022, Windows 11, x64-based processor, SDL3, and GLFW. The file paths are according to my computer, so I recommend changing them to your
 own. 
 
 ## Getting Started
